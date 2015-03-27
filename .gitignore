@@ -1,3 +1,4 @@
+quicklisp.*
 *.FASL
 *.fasl
 *.lisp-temp
