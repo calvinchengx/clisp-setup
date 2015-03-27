@@ -9,3 +9,4 @@ sudo port -v install gnupg
 gpg --import quicklisp.release.key.asc
 gpg --verify quicklisp.lisp.asc
 sudo port -v install sbcl
+sbcl --load quicklisp.lisp
